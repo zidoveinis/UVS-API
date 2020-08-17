@@ -1,0 +1,57 @@
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\bin\Debug\netcoreapp2.1\cities.json
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\bin\Debug\netcoreapp2.1\UVSApi.deps.json
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\bin\Debug\netcoreapp2.1\UVSApi.runtimeconfig.json
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\bin\Debug\netcoreapp2.1\UVSApi.runtimeconfig.dev.json
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\bin\Debug\netcoreapp2.1\UVSApi.dll
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\bin\Debug\netcoreapp2.1\UVSApi.pdb
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\obj\Debug\netcoreapp2.1\UVSApi.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\obj\Debug\netcoreapp2.1\UVSApi.AssemblyInfo.cs
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\obj\Debug\netcoreapp2.1\UVSApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\obj\Debug\netcoreapp2.1\UVSApi.RazorAssemblyInfo.cache
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\obj\Debug\netcoreapp2.1\UVSApi.RazorAssemblyInfo.cs
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\obj\Debug\netcoreapp2.1\UVSApi.RazorTargetAssemblyInfo.cache
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\obj\Debug\netcoreapp2.1\UVSApi.dll
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\obj\Debug\netcoreapp2.1\UVSApi.pdb
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\obj\Debug\netcoreapp2.1\UVSApi.genruntimeconfig.cache
+C:\Users\user\Downloads\saikasAPI-master (1)\saikasAPI-master\SaikasApi\obj\Debug\netcoreapp2.1\UVSApi.csprojAssemblyReference.cache
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\cities.json
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\UVSApi.deps.json
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\UVSApi.runtimeconfig.json
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\UVSApi.runtimeconfig.dev.json
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\UVSApi.dll
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\UVSApi.pdb
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.csprojAssemblyReference.cache
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.AssemblyInfo.cs
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.RazorAssemblyInfo.cache
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.RazorAssemblyInfo.cs
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.RazorTargetAssemblyInfo.cache
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.dll
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.pdb
+C:\Users\user\Downloads\saikasAPI-master (1) - Copy\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.genruntimeconfig.cache
+C:\Users\user\Desktop\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\user\Desktop\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\user\Desktop\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\cities.json
+C:\Users\user\Desktop\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\user\Desktop\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\UVSApi.deps.json
+C:\Users\user\Desktop\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\UVSApi.runtimeconfig.json
+C:\Users\user\Desktop\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\UVSApi.runtimeconfig.dev.json
+C:\Users\user\Desktop\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\UVSApi.dll
+C:\Users\user\Desktop\UVS-API\UVS-API\bin\Debug\netcoreapp2.1\UVSApi.pdb
+C:\Users\user\Desktop\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.AssemblyInfo.cs
+C:\Users\user\Desktop\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.dll
+C:\Users\user\Desktop\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.pdb
+C:\Users\user\Desktop\UVS-API\UVS-API\obj\Debug\netcoreapp2.1\UVSApi.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+﻿{
+  "Cities": [
+    {
+      "name": "Vilnius",
+      "code": "Vilnius"
+    },
+    {
+      "name": "Kaunas",
+      "code": "Kaunas"
+    },
+    {
+      "name": "Šiauliai",
+      "code": "Siauliai"
+    },
+    {
+      "name": "Klaipėda",
+      "code": "Klaipeda"
+    },
+    {
+      "name": "Alytus",
+      "code": "Alytus"
+    }
+  ]
+}
