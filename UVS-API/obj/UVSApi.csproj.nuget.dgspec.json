@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\UVS-API\\UVS-API\\UVSApi.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\UVS-API-2uzd\\UVS-API\\UVSApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\UVS-API\\UVS-API\\UVSApi.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\UVS-API-2uzd\\UVS-API\\UVSApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\UVS-API\\UVS-API\\UVSApi.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\UVS-API-2uzd\\UVS-API\\UVSApi.csproj",
         "projectName": "UVSApi",
-        "projectPath": "C:\\Users\\user\\Desktop\\UVS-API\\UVS-API\\UVSApi.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\UVS-API-2uzd\\UVS-API\\UVSApi.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\UVS-API\\UVS-API\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\UVS-API-2uzd\\UVS-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8K2lY7OBTP9VAWy6gjD2//PX5RwU/T4o+1AmHqxZBCcsozNgyDnSaTyqTZyvkEKZASkniz98h/wU8C1JyNZpbw==",
+  "dgSpecHash": "sckbnxdNHrfiOVV5yeus72wIRE5NF/wt6/y0M0YZAITxubhdDrMTsWysUmw1x6hSZnGe7A4CzC/X6Nw/r7md2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\UVS-API\\UVS-API\\UVSApi.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\UVS-API-2uzd\\UVS-API\\UVSApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

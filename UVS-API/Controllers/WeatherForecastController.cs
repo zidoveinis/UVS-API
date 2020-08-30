@@ -3,8 +3,6 @@ using System.IO;
 using System.Net;
 using System.Xml.Serialization;
 using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
-using UVSApi.Models;
 
 namespace SaikasApi.Controllers
 {
